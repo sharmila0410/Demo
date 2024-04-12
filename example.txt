@@ -1,1 +1,2 @@
 This is simple text file
+Fixing issue in the file
